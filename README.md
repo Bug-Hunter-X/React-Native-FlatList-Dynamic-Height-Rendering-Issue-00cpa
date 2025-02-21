@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using FlatList in React Native with dynamic item heights. The bug showcases inconsistent rendering and blank spaces, while the solution uses `estimatedItemSize` and `getItemLayout` props to improve performance and accuracy.
